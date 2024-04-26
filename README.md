@@ -4,3 +4,5 @@ in verde paper già scaricati e disponibili
 in giallo paper non trovati per il momento
 in rosso paper duplicati tra le 2 ricerche
 in bianco paper non ricercati per il download
+totale 333 + 314 - 196 (duplicati) = 451
+
