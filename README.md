@@ -1,3 +1,6 @@
 # LCA-WOOL
-FIRST GROUP DOWNLOAD: SCOPUS; KEYWORDS (WOOL AND (LCA OR LCIA OR S-LCA OR LCC OR LCSA OR ELCC) )
-FOUND 169 RESULTS, DOWNLOADED 134 (25-04-2024)
+excel completo. 1 foglio risultati scopus (333), 2 foglio risultati web of science (314)
+in verde paper già scaricati e disponibili
+in giallo paper non trovati per il momento
+in rosso paper duplicati tra le 2 ricerche
+in bianco paper non ricercati per il download
